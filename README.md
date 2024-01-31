@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Renan-T
 - 👀 I’m interested in change the world by programming
-- 🌱 I’m currently learning JavaScript and JS's frameworks and JS's libraries 
+- 🌱 I’m currently learning Python
 
 - 📫 You can reach me by email: renantoledo.pm@gmail.com
 
